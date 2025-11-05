@@ -42,6 +42,7 @@ show_banner(){
   echo "   - safe permutations"
   echo "   - resolves hosts (dnsx/massdns/dig)"
   echo "   - optional HTTP probe (httpx/curl)"
+  echo "   - By Vishal Waghmare (instagram/realvilu)"
   echo "=============================================="
   echo -e "${CLR_RESET}"
 }
